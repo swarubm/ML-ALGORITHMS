@@ -19,3 +19,12 @@ README.md: Presents an overview of the repository structure but is minimal; most
 The repository’s workflow typically involves loading datasets, conducting data preprocessing, training models, performing hyperparameter search (often through Grid Search CV), and evaluating results with relevant metrics. Users can learn how to implement these algorithms using scikit-learn and XGBoost libraries.
 
 Overall, the project is practical and application-driven, ideal for students or practitioners seeking hands-on examples of boosting and ensemble machine learning algorithms. It demonstrates best practices in model training, evaluation, and tuning, with clear notebook-based presentations for each key algorithm. The repository is especially relevant for those studying applied machine learning or preparing for interviews focused on ensemble methods, boosting strategies, and scikit-learn pipelines.
+
+This repository provides practical examples of classification algorithms using Python and Jupyter Notebooks.
+
+classification part 1 .ipynb covers exploratory data analysis and logistic regression for salary prediction.
+
+classification part 1 and 2 .ipynb extends the workflow to include K-Nearest Neighbors (KNN) and model evaluation.
+Both notebooks demonstrate preprocessing, feature engineering, and performance metrics for binary classification tasks.
+Datasets are loaded and handled using pandas, with models built using scikit-learn.
+Ideal for students or beginners aiming for hands-on experience in classification techniques.
