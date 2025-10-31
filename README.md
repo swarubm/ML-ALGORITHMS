@@ -14,7 +14,6 @@ Gradient_Boost_Classification_.ipynb & Gradient_Boosting_Regression_.ipynb: Impl
 
 XG Boosting .ipynb: Details XGBoost, a state-of-the-art ensemble learner famed for its speed and performance, especially in large-scale machine learning competitions. Implementation highlights special parameters and dataset preprocessing steps.
 
-README.md: Presents an overview of the repository structure but is minimal; most documentation is in the notebook files themselves.
 
 The repository’s workflow typically involves loading datasets, conducting data preprocessing, training models, performing hyperparameter search (often through Grid Search CV), and evaluating results with relevant metrics. Users can learn how to implement these algorithms using scikit-learn and XGBoost libraries.
 
